@@ -16,8 +16,8 @@ App::import('Core', array('HttpSocket', 'Xml'));
 	
 class TwitterComponent extends Object { 
 	// Twitter Credentials
-	var $username = 'SandMusicCA';
-	var $password = 'axions84';
+	var $username = 'XXXXXXXXXXXXXX';
+	var $password = 'XXXXXXXXXXXXXX';
 	
 	// HTTP Socket
 	var $http = NULL;
