@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /songs/index/shuffle:true/
+Disallow: /songs/get_info/
+Disallow: /comments/
+Disallow: /pages/
+Disallow: /artists/autocomplete
+Disallow: /albums/autocomplete
+Disallow: /add
+
+Allow: /
+

@@ -1,0 +1,29 @@
+SandMusic - Online music sharing for the indie obsessed.
+Copyright 2011 Kareem Sabri
+
+This file is part of SandMusic.
+
+SandMusic is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+SandMusic is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with SandMusic.  If not, see <http://www.gnu.org/licenses/>
+
+INSTALL GUIDE
+
+SandMusic is built using CakePHP 1.3.6
+
+To install SandMusic:
+
+1. Download, install, and configure CakePHP 1.3.6 or later - no guarantees it will work with any later version.
+2. Create your database by importing the SQL file in this directory, then delete it. Modify config/database.php accordingly.
+3. Copy the contents of this directory into your app directory, overwriting all files if prompted.
+
+That's it! Enjoy.
